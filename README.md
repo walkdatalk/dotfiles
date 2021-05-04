@@ -18,3 +18,6 @@ git clone git@github.com:walkdatalk/dotfiles.git
 cd ~/dotfiles
 ./make_symlink.sh
 ```
+
+use https://github.com/powerline/fonts
+otherwise the characters will be corrupt.
